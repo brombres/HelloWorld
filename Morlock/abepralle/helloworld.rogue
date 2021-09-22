@@ -1,0 +1,14 @@
+class HelloWorld : Package
+  METHODS
+    method init
+      release "https://github.com/AbePralle/HelloWorld/archive/refs/tags/v1.0.zip"
+      release "https://github.com/AbePralle/HelloWorld/archive/refs/tags/v1.0.tar.gz"
+
+    method install
+      download
+      unpack
+      build
+      install_products( "Build/*-$(OS)", &windows="Build/*.exe" )
+
+endClass
+
