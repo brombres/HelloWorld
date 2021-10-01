@@ -1,4 +1,7 @@
 class HelloWorld : Package
+  PROPERTIES
+    name = "abepralle/helloworld"
+
   METHODS
     method init
       release "https://github.com/AbePralle/HelloWorld/archive/refs/tags/v1.0.zip"
