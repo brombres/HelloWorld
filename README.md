@@ -1,5 +1,5 @@
 # HelloWorld
-Simple test repo for the [Morlock](https://github.com/AbePralle/Morlock) build system.
+Simple test repo for the [Morlock](https://github.com/brombres/Morlock) build system.
 
 About     | Current Release
 ----------|-----------------------

@@ -1,5 +1,5 @@
 class HelloWorld : Package
   PROPERTIES
-    name = "abepralle/helloworld"
+    name = "brombres/helloworld"
 endClass
 
