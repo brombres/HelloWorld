@@ -3,7 +3,7 @@ Simple test repo for the [Morlock](https://github.com/brombres/Morlock) build sy
 
 About     | Current Release
 ----------|-----------------------
-Version   | 1.1
-Date      | September 9, 2022
+Version   | 1.1.1
+Date      | February 14, 2023
 Platforms | Windows, macOS, Linux
 
